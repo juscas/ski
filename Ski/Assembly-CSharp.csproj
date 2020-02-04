@@ -64,6 +64,9 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\camFollow.cs" />
     <Compile Include="Assets\Scripts\charController.cs" />
+    <Compile Include="Assets\Shaders\DrawWithMouse.cs" />
+    <None Include="Assets\Shaders\DrawTracks.shader" />
+    <None Include="Assets\Shaders\SnowTracks.shader" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Justin/source/repos/ski/Ski/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
